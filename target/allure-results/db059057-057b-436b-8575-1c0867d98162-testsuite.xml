@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" start="1613434853516" stop="1613434887729" version="1.4.0">
+    <name>Suite</name>
+    <test-cases>
+        <test-case start="1613434853551" stop="1613434887632" status="passed">
+            <name>totalValidation</name>
+            <steps/>
+            <attachments/>
+            <labels/>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="feature" value="Test"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="77824" started-at="2021-02-15T22:00:30 EST" finished-at="2021-02-15T22:01:48 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="77824" started-at="2021-02-15T22:00:30 EST" finished-at="2021-02-15T22:01:48 EST">
+      <class name="practice.AppiumFramework.ecommerce_app_tc2">
+        <test-method status="PASS" signature="totalValidation()[pri:0, instance:practice.AppiumFramework.ecommerce_app_tc2@57e1b0c]" name="totalValidation" duration-ms="32495" started-at="2021-02-15T22:00:31 EST" finished-at="2021-02-15T22:01:03 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalValidation -->
+      </class> <!-- practice.AppiumFramework.ecommerce_app_tc2 -->
+      <class name="practice.AppiumFramework.APIDemo">
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practice.AppiumFramework.APIDemo@4232c52b]" name="apiDemo" duration-ms="22746" started-at="2021-02-15T22:01:03 EST" data-provider="InputData" finished-at="2021-02-15T22:01:26 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hello]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+        <test-method status="PASS" signature="apiDemo(java.lang.String)[pri:0, instance:practice.AppiumFramework.APIDemo@4232c52b]" name="apiDemo" duration-ms="22546" started-at="2021-02-15T22:01:26 EST" data-provider="InputData" finished-at="2021-02-15T22:01:48 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[&^*^]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiDemo -->
+      </class> <!-- practice.AppiumFramework.APIDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
